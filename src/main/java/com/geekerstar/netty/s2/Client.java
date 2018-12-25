@@ -3,9 +3,6 @@ package com.geekerstar.netty.s2;
 import java.io.IOException;
 import java.net.Socket;
 
-/**
- * @author 闪电侠
- */
 public class Client {
     private static final String HOST = "127.0.0.1";
     private static final int PORT = 8000;
